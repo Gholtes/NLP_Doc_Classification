@@ -1,6 +1,6 @@
 # NLP Document Classification
 
-Exploration of Document Classification Techniques: Classifying news articles wth CNN, Dense and Logistic models
+Exploration of Document Classification Techniques: Classifying news articles with CNN, Dense and Logistic models
 
 ## Summary
 
